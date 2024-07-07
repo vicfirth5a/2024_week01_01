@@ -1,3 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: "Castoro Titling", serif;
+  line-height: 1.5;
+}
 .wrap {
   max-width: 1920px;
   margin: auto;
@@ -7,14 +15,7 @@
   max-width: 1296px;
   margin: auto;
 }
-* {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  box-sizing: border-box;
-  font-family: "Castoro Titling", serif;
-  line-height: 1.5;
-}
+
 img {
   vertical-align: top;
 }
