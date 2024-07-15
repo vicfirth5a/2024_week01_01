@@ -102,6 +102,7 @@ section {
 }
 body {
   line-height: 1;
+  line-height: 1.5;
 }
 ol,
 ul {
@@ -124,7 +125,9 @@ table {
 }
 
 /*-----------------------------------*/
-
+body {
+  line-height: 1.5;
+}
 * {
   /* margin: 0;
   padding: 0;
@@ -137,7 +140,7 @@ p,
 h1,
 h2,
 h3 {
-  line-height: 1.5;
+  /* line-height: 1.5; */
   font-family: "Castoro", serif;
 }
 *,
@@ -161,6 +164,7 @@ img {
 
 .header h1 {
   font-size: 128px;
+  letter-spacing: 0.12em;
 }
 .header .pic {
   max-width: 636px;
@@ -171,6 +175,7 @@ img {
 }
 .header h2 {
   font-size: 128px;
+  letter-spacing: 0.12em;
   /* width: 50%;
   margin-left: auto; */
   text-align: right;
@@ -185,7 +190,7 @@ img {
   font-size: 32px;
   /* width: 50%; */
   margin-left: auto;
-  line-height: 1.5;
+  /* line-height: 1.5; */
 
   width: 636px;
 }
